@@ -1,0 +1,11 @@
+Product,Category,Units_Sold,Price_Per_Unit,Month
+Laptop,Electronics,30,1200,Jan
+Mouse,Accessories,120,25,Jan
+Keyboard,Accessories,85,45,Jan
+Monitor,Electronics,45,300,Jan
+Printer,Electronics,25,150,Jan
+Laptop,Electronics,50,1150,Feb
+Mouse,Accessories,60,22,Feb
+Keyboard,Accessories,40,48,Feb
+Monitor,Electronics,55,310,Feb
+Printer,Electronics,30,145,Feb
